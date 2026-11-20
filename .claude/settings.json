@@ -1,0 +1,13 @@
+
+{
+  "permissions": {
+    "additionalDirectories": [
+      "C:/Users/jovane/project/aligner",
+      "C:/Users/jovane/project/vicon_exporter",
+      "G:/My Drive/temp/dualflow"
+    ],
+    "deny": [
+        "Edit(//g/My Drive/temp/dualflow/**)"
+    ]
+  }
+}
